@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="352" viewBox="0 0 640 352" role="img" aria-labelledby="title">
+  <title id="title">Jimmy van 't Hoenderdaal · Full-stack developer</title>
+  <rect width="640" height="352" rx="8" fill="#14251f"/>
+  <g fill="#edf1e8" font-family="'Avenir Next', 'Trebuchet MS', Helvetica, sans-serif" letter-spacing="3">
+    <text x="40" y="88" font-size="56" font-weight="600">Jimmy<tspan font-size="28" font-weight="400" fill="#aec1b0"> van 't</tspan></text>
+    <text x="38" y="160" font-size="52" font-weight="400">Hoenderdaal</text>
+  </g>
+  <text x="42" y="224" fill="#aec1b0" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1">full-stack developer</text>
+
+  <path d="M40 296H600" stroke="#365043"/>
+  <g fill="#aec1b0" font-family="Helvetica, Arial, sans-serif" font-size="18">
+    <text x="42" y="330">alkmaar, nl</text>
+    <text x="600" y="330" text-anchor="end">shaduwi.nl</text>
+  </g>
+</svg>
